@@ -14,3 +14,5 @@ ipython_config.py
 
 # Enviroment file
 .env
+
+**.DS_Store
