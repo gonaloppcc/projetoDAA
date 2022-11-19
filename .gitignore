@@ -16,3 +16,9 @@ ipython_config.py
 .env
 
 **.DS_Store
+
+# Jetbrains ide
+.idea
+
+# Submission File
+competition/submission.csv
