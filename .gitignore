@@ -21,5 +21,13 @@ ipython_config.py
 .idea
 
 # Submission File
-competition/submission_v2.csv
-competition/export_dataframe.csv
+submission*.csv
+
+# Trials
+trials/
+
+# Tmp folder
+tmp/
+
+# Catboost
+catboost_info/
